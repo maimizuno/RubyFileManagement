@@ -1,12 +1,8 @@
 # ----------------------------------------------------------------------------------------------------
-# Submission 1 Q1
-# Student ID: S1511679
-# Name: Mai Mizuno
-#
+# Author: Mai Mizuno
 # Description:
 # The script is designed to display the content of a specified file and identifies
 # the occurrence of "Ruby" in the content after verifying the existence of the file.
-#
 # ----------------------------------------------------------------------------------------------------
 
 # Assign variables
