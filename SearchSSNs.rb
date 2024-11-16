@@ -1,13 +1,10 @@
 # ----------------------------------------------------------------------------------------------------
-# Submission 2 Q1
-# Student ID: S1511679
-# Name: Mai Mizuno
+# Author: Mai Mizuno
 #
 # Description:
 # The script is designed to search for SSNs in .docx documents within a specified
 # directory and its sub-directories. The search result will be stored in a new file
 # named "result.txt" with the found date.
-#
 # ----------------------------------------------------------------------------------------------------
 require 'search_in_file'
 
